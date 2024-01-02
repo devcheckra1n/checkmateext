@@ -8,7 +8,7 @@ Please use these only when you have permission, I (_checkra1n) do not condone th
 
 Image Credit: LittleMissNyan
 
-Thank you to all of the contributors! Yall really are pretty epic :D
+Thank you to all of the contributors!
 
 - [EXT-REMOVER](#ext-remover)
   * [GuardianTabCrash *Unrestricted browsing*](#guardiantabcrash-unrestricted-browsing)
